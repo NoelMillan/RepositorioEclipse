@@ -3,7 +3,7 @@ package holamundo;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("Hola mundo, me llamo Noel Millán Rebollo.");
+		System.out.println("Hola mundo, me llamo Noel Millán Rebollo2.");
 	}
 
 }
